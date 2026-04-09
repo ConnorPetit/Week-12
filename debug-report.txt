@@ -1,1 +1,5 @@
+In the css code there were a couple of problems. There was an extra colon, the word "color" was spelled worng, and black was spelled with two k's.
 
+I fixed them by going into the dev tools when on the live websight and going through the code to identify the issues. There is also a error symbol telling me about the javascript.
+
+I've learned how to go into the inspect element menu to view the code in every website. I wasnt aware that you could look at every websites code and view their code. 
